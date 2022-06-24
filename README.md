@@ -129,6 +129,7 @@ Markdown | не такой | красивый
 1. Вам необходимо скачать и установить Git по ссылке https://git-scm.com/downloads выбрав свою операционную систему.
 2. После скачивания и установки Git, Вам необходимо запустить командную строку Git Bash и ввести следующие команды:
 >git config --global user.name "Ваше ФИО"
+
 >git config --global user.email ваш_адрес_электронной@почты.ru
 
 3. Скачать и установить Visual Studio Code по следующей ссылке https://code.visualstudio.com/download , выбрав свою операционную систему.
