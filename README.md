@@ -3,7 +3,7 @@
 Меня зовут, 
 **Гиззаттуллин Айрат Искандарович**
 
-<ing src="/avatar.jpg width" width="200" />
+<img src="avatar.jpg" alt="drawing" width="150"/>
 
 Я прохожу обучение в лучшей онлайн школе по IT образованию - **GeekBrains**
 
